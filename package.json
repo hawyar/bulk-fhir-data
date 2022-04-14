@@ -5,13 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "hawyar",
   "license": "ISC",
   "dependencies": {
-    "download": "^8.0.0",
     "node-fetch": "^3.2.3"
   }
 }
