@@ -1,0 +1,17 @@
+{
+  "name": "bulk-fhir-data",
+  "version": "1.0.0",
+  "description": "Bulk FHIR resources in JSON format",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hawyar",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^8.0.0",
+    "node-fetch": "^3.2.3"
+  }
+}
